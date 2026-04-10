@@ -1,78 +1,73 @@
 # 💱 Currency Converter
 
-## 🇺🇸 About the project
+A dynamic currency converter focused on real-time calculations, DOM manipulation and user interaction.
 
-A simple currency converter interface built to practice JavaScript fundamentals in real scenarios, such as:
-
-* DOM manipulation  
-* Event handling  
-* Conditional logic  
-* Currency formatting with `Intl.NumberFormat`  
-
-The project simulates a conversion system where users can select currencies and instantly see the converted values.
+🔗 **Live Demo:** https://jeanholanda.github.io/currency-converter/
 
 ---
 
-## 🇧🇷 Sobre o projeto
+## About the project
 
-Uma interface simples de conversão de moedas, desenvolvida para praticar fundamentos de JavaScript em cenários reais, como:
+This project is a dynamic interface developed to simulate a real-world currency conversion system using JavaScript.
 
-* Manipulação do DOM  
-* Eventos  
-* Condicionais  
-* Formatação de moeda com `Intl.NumberFormat`  
+It allows users to select different currencies and instantly view converted values, focusing on user interaction, conditional logic and real-time updates.
 
-O projeto simula um sistema de conversão onde o usuário pode selecionar moedas e visualizar os valores convertidos em tempo real.
+---
+
+## Sobre o projeto
+
+Este projeto é uma interface dinâmica desenvolvida para simular um sistema real de conversão de moedas utilizando JavaScript.
+
+Ele permite que o usuário selecione diferentes moedas e visualize os valores convertidos em tempo real, com foco em interação, lógica condicional e atualização dinâmica.
 
 ---
 
 ## 🎯 Purpose
 
-This project was created to strengthen my JavaScript fundamentals, especially working with DOM manipulation and user interactions.
+The main goal of this project is to improve my JavaScript skills, especially:
+
+- Manipulating the DOM  
+- Handling user events  
+- Building dynamic interfaces  
 
 ---
 
 ## 🚀 Technologies
 
-* HTML5  
-* CSS3  
-* JavaScript (ES6+)  
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
 
 ---
 
-## 🎯 Features
+## ✨ Features
 
-* 💱 Convert between multiple currencies (BRL, USD, EUR, GBP, BTC)  
-* 🔄 Real-time update on currency selection  
-* 💰 Currency formatting using `Intl.NumberFormat`  
-* 🎯 Dynamic DOM updates  
-* 🖼️ Automatic update of currency names and flags  
+- 💱 Converting between multiple currencies (BRL, USD, EUR, GBP, BTC)  
+- 🔄 Updating values in real time  
+- 💰 Formatting currency using `Intl.NumberFormat`  
+- 🎯 Updating the DOM dynamically  
+- 🖼️ Changing currency names and flags automatically  
 
 ---
 
 ## 💡 What I learned
 
-* How to manipulate the DOM dynamically  
-* How to handle user events like `click` and `change`  
-* How to structure logic for real-world applications  
-* How to format values using `Intl.NumberFormat`  
+- Manipulating the DOM dynamically  
+- Handling user events like `click` and `change`  
+- Structuring logic for real-world applications  
+- Formatting values using `Intl.NumberFormat`  
+- Updating UI elements based on user interaction  
 
 ---
 
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JeanHolanda/currency-converter/2420385bfc7bc26c744eb0bda9578af8f6014853/assets/Minimalist%20Website%20Launch%20Computer%20Mockup%20Instagram%20Post.png" width="700">
+  <img src="https://raw.githubusercontent.com/JeanHolanda/currency-converter/2420385bfc7bc26c744eb0bda9578af8f6014853/assets/Minimalist%20Website%20Launch%20Computer%20Mockup%20Instagram%20Post.png" width="650">
 </p>
-
----
-
-## 🔗 Live Demo
-
-👉 https://jeanholanda.github.io/currency-converter/
 
 ---
 
 ## 🧑‍💻 Author
 
-Jean Holanda 🚀
+Developed by Jean Holanda 🚀

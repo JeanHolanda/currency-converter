@@ -10,7 +10,7 @@ A dynamic currency converter focused on real-time calculations, DOM manipulation
 
 This project is a dynamic interface developed to simulate a real-world currency conversion system using JavaScript.
 
-It allows users to select different currencies and instantly view converted values, focusing on user interaction, conditional logic and real-time updates.
+It allows users to select different currencies and instantly view converted values using real-time exchange rates fetched from an external API, focusing on user interaction, conditional logic and asynchronous JavaScript.
 
 ---
 
@@ -18,7 +18,7 @@ It allows users to select different currencies and instantly view converted valu
 
 Este projeto é uma interface dinâmica desenvolvida para simular um sistema real de conversão de moedas utilizando JavaScript.
 
-Ele permite que o usuário selecione diferentes moedas e visualize os valores convertidos em tempo real, com foco em interação, lógica condicional e atualização dinâmica.
+Ele permite que o usuário selecione diferentes moedas e visualize os valores convertidos em tempo real através de uma API externa, com foco em interação, lógica condicional e JavaScript assíncrono.
 
 ---
 
@@ -36,14 +36,18 @@ The main goal of this project is to improve my JavaScript skills, especially:
 
 - HTML5  
 - CSS3  
-- JavaScript (ES6+)  
+- JavaScript (ES6+)
+- Async/Await
+- Fetch API
+- AwesomeAPI (Exchange Rates API)
 
 ---
 
 ## ✨ Features
 
-- 💱 Converting between multiple currencies (BRL, USD, EUR, GBP, BTC)  
-- 🔄 Updating values in real time  
+- 💱 Converting between multiple currencies (BRL, USD, EUR, GBP, BTC)
+- 🌐 Real-time exchange rates using external API
+- 🔄 Dynamic updates without page reload
 - 💰 Formatting currency using `Intl.NumberFormat`  
 - 🎯 Updating the DOM dynamically  
 - 🖼️ Changing currency names and flags automatically  
@@ -53,7 +57,9 @@ The main goal of this project is to improve my JavaScript skills, especially:
 ## 💡 What I learned
 
 - Manipulating the DOM dynamically  
-- Handling user events like `click` and `change`  
+- Handling user events like `click` and `change`
+- Working with asynchronous JavaScript using async/await
+- Consuming external APIs with fetch
 - Structuring logic for real-world applications  
 - Formatting values using `Intl.NumberFormat`  
 - Updating UI elements based on user interaction  
